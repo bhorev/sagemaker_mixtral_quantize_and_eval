@@ -6,3 +6,8 @@ Quantize and host a Mixtral with SageMaker LMI and evaluate it with SageMaker Cl
 **mixtral_LMI-bf16.ipynb** - deploy an 16bit (bf16) Mixtral model on a SageMaker Endpoint
 
 **eval_mixtral.ipynb** - Use SageMaker Clarify with fmeval to evaluate the 8bit model
+
+Refereneces
+- https://mistral.ai/news/mixtral-of-experts/
+- https://docs.aws.amazon.com/sagemaker/latest/dg/clarify-foundation-model-evaluate.html
+
