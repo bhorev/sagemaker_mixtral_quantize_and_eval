@@ -11,3 +11,7 @@ Refereneces
 - https://mistral.ai/news/mixtral-of-experts/
 - https://docs.aws.amazon.com/sagemaker/latest/dg/clarify-foundation-model-evaluate.html
 
+### ml.g5.12xlarge
+4x NVIDIA A10G
+
+![image](https://github.com/bhorev/sagemaker_mixtral_quantize_and_eval/assets/65091963/e29e449b-94d8-4e62-a45b-e793902315ce)
